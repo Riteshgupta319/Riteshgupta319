@@ -116,9 +116,6 @@ Here are some of the platforms where I practice:
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to check out my repositories.** 🚀
-
-
-
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###

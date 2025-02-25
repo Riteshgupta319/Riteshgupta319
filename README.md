@@ -19,9 +19,9 @@
 - Preparing for **MySQL exam** 🎓
 
 #### 📫 Connect With Me
-- **GitHub**: [github.com/RiteshGupta](#) *(Replace with your actual GitHub URL)*
-- **LinkedIn**: [linkedin.com/in/riteshgupta](#) *(Replace with your actual LinkedIn URL)*
-- **Twitter**: [twitter.com/RiteshGupta](#) *(Optional, if you have one)*
+- **GitHub**: [https://github.com/Riteshgupta319](#) *(Replace with your actual GitHub URL)*
+- **LinkedIn**: [www.linkedin.com/in/ritesh-gupta-53a725113](#) *(Replace with your actual LinkedIn URL)*
+
 
 #### 🌱 Fun Fact
 I love decoding financial patterns and exploring **astrological influences** on market trends! ✨📉
